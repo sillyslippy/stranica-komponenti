@@ -1,0 +1,34 @@
+<footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <h3 class="footer-naslov">TechHub</h3>
+          <a href="#" class="footer-link">O nama</a>
+          <a href="#" class="footer-link">Kontakt</a>
+          <a href="#" class="footer-link">Poslovnice</a>
+        </div>
+        <div>
+          <h3 class="footer-naslov">Kategorije</h3>
+          <a href="#" class="footer-link">Miševi</a>
+          <a href="#" class="footer-link">Tipkovnice</a>
+          <a href="#" class="footer-link">Slušalice</a>
+          <a href="#" class="footer-link">Dodaci</a>
+        </div>
+        <div>
+          <h3 class="footer-naslov">Podrška</h3>
+          <a href="#" class="footer-link">Česta pitanja</a>
+          <a href="#" class="footer-link">Povrat robe</a>
+          <a href="#" class="footer-link">Jamstvo</a>
+        </div>
+        <div>
+          <h3 class="footer-naslov">Prati nas</h3>
+          <a href="#" class="footer-link"><i class="fab fa-facebook"></i> Facebook</a>
+          <a href="#" class="footer-link"><i class="fab fa-instagram"></i> Instagram</a>
+          <a href="#" class="footer-link"><i class="fab fa-twitter"></i> Twitter</a>
+        </div>
+      </div>
+      <div class="footer-dno">
+        &copy; 2025 TechHub. Sva prava pridržana.
+      </div>
+    </div>
+  </footer>
